@@ -3,54 +3,54 @@
 <img width="100%" alt="Antonio López" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:db2777&height=200&section=header&text=Antonio%20L%C3%B3pez&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%40AntonioLBZ&descSize=20&descAlignY=60" />
 
 <a href="https://github.com/AntonioLBZ">
-  <img alt="Frontend developer · React · TypeScript · CSS" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=560&height=40&lines=Frontend+developer;React+%C2%B7+TypeScript+%C2%B7+CSS;Animaciones+con+scroll+y+detalles+de+interfaz;A+Coru%C3%B1a" />
+  <img alt="Frontend developer · React · TypeScript · CSS" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=560&height=40&lines=Frontend+developer;React+%C2%B7+TypeScript+%C2%B7+CSS;Scroll+animations+and+interface+details;Based+in+A+Coru%C3%B1a" />
 </a>
 
 <br />
 
 <a href="https://antoniolbz.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-antoniolbz.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://github.com/AntonioLBZ?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/Repos-p%C3%BAblicos-4f46e5?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img alt="A Coruña" src="https://img.shields.io/badge/A_Coru%C3%B1a-Galicia-db2777?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="https://github.com/AntonioLBZ?tab=repositories"><img alt="Public repositories" src="https://img.shields.io/badge/Repos-public-4f46e5?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img alt="A Coruña, Galicia" src="https://img.shields.io/badge/A_Coru%C3%B1a-Galicia-db2777?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
 <br />
 
-## 👋 Sobre mí
+## About me
 
-- 💻 Desarrollo frontend con **React, TypeScript y CSS**.
-- 🎞️ Trabajo con animaciones basadas en scroll (GSAP, Lenis) y siempre respeto `prefers-reduced-motion`.
-- 🛠️ Ahora mismo estoy puliendo **Hoardex**: aún le faltan los logros y la wishlist.
-- 🌐 Mi portfolio está en [antoniolbz.vercel.app](https://antoniolbz.vercel.app).
+- Frontend developer working with **React, TypeScript and CSS**.
+- I build scroll-driven animations (GSAP, Lenis) and always respect `prefers-reduced-motion`.
+- Currently polishing **Hoardex**: achievements and the wishlist are still missing.
+- My portfolio lives at [antoniolbz.vercel.app](https://antoniolbz.vercel.app).
 
 <br />
 
-## 🚀 Proyectos
+## Projects
 
-| Proyecto | Qué es | Stack | Enlaces |
+| Project | What it is | Stack | Links |
 | :-- | :-- | :-- | :-- |
-| **Hoardex** | Panel para tu biblioteca de Steam: horas jugadas, backlog y juegos más jugados, con gráficas animadas. Incluye una biblioteca de demo. | Vite · React · TanStack · Hono · Neon · Redis | [Demo](https://hoardex.vercel.app) · [Código](https://github.com/AntonioLBZ/spa-hoardex) |
-| **Anicalendar** | Calendario semanal con los episodios de anime que sigues, desde AniList, Kitsu o MyAnimeList. En inglés, español, francés y alemán. | Next.js · React · react-aria · TanStack Query | [Demo](https://anicalendar-lbz.vercel.app) · [Código](https://github.com/AntonioLBZ/spa-anicalendar) |
-| **dev-portfolio** | Mi portfolio: una página con animaciones al hacer scroll y una ficha por proyecto. | Next.js · GSAP · Lenis · SCSS | [Web](https://antoniolbz.vercel.app) · [Código](https://github.com/AntonioLBZ/dev-portfolio) |
+| **Hoardex** | A dashboard for your Steam library: hours played, backlog and most played games, with animated charts. Includes a demo library. | Vite · React · TanStack · Hono · Neon · Redis | [Live](https://hoardex.vercel.app) · [Code](https://github.com/AntonioLBZ/spa-hoardex) |
+| **Anicalendar** | A weekly calendar of the anime you follow, pulled from AniList, Kitsu or MyAnimeList. Available in English, Spanish, French and German. | Next.js · React · react-aria · TanStack Query | [Live](https://anicalendar-lbz.vercel.app) · [Code](https://github.com/AntonioLBZ/spa-anicalendar) |
+| **dev-portfolio** | My personal portfolio: a one-page site with scroll-driven animations and a detail page per project (UI in Spanish). | Next.js · GSAP · Lenis · SCSS | [Live](https://antoniolbz.vercel.app) · [Code](https://github.com/AntonioLBZ/dev-portfolio) |
 
 <br />
 
-## 🧰 Stack
+## Stack
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td><img alt="React, TypeScript, JavaScript, HTML, CSS, Sass, Next.js y Vite" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,nextjs,vite" /></td>
+    <td><img alt="React, TypeScript, JavaScript, HTML, CSS, Sass, Next.js and Vite" src="https://skillicons.dev/icons?i=react,ts,js,html,css,sass,nextjs,vite" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Backend y datos</b></td>
-    <td><img alt="Node.js, PostgreSQL y Redis" src="https://skillicons.dev/icons?i=nodejs,postgres,redis" /></td>
+    <td align="center"><b>Backend & data</b></td>
+    <td><img alt="Node.js, PostgreSQL and Redis" src="https://skillicons.dev/icons?i=nodejs,postgres,redis" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Herramientas</b></td>
-    <td><img alt="Git, GitHub, pnpm, Vitest y Vercel" src="https://skillicons.dev/icons?i=git,github,pnpm,vitest,vercel" /></td>
+    <td align="center"><b>Tooling</b></td>
+    <td><img alt="Git, GitHub, pnpm, Vitest and Vercel" src="https://skillicons.dev/icons?i=git,github,pnpm,vitest,vercel" /></td>
   </tr>
 </table>
 
@@ -64,24 +64,29 @@
 
 <br />
 
-## 📊 Estadísticas
+## Stats
 
 <div align="center">
 
+<sub>These stats only take my public projects into account; private repositories are not counted.</sub>
+
+<br />
+<br />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AntonioLBZ&show_icons=true&hide_border=true&locale=es&theme=tokyonight" />
-  <img height="170" alt="Estadísticas de GitHub de AntonioLBZ" src="https://github-readme-stats.vercel.app/api?username=AntonioLBZ&show_icons=true&hide_border=true&locale=es&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AntonioLBZ&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" alt="GitHub stats for AntonioLBZ, public projects only" src="https://github-readme-stats.vercel.app/api?username=AntonioLBZ&show_icons=true&hide_border=true&theme=default" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLBZ&layout=compact&langs_count=6&hide_border=true&locale=es&theme=tokyonight" />
-  <img height="170" alt="Lenguajes más usados por AntonioLBZ" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLBZ&layout=compact&langs_count=6&hide_border=true&locale=es&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLBZ&layout=compact&langs_count=6&hide_border=true&theme=tokyonight" />
+  <img height="170" alt="Most used languages across the public projects of AntonioLBZ" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioLBZ&layout=compact&langs_count=6&hide_border=true&theme=default" />
 </picture>
 
 </div>
 
 <br />
 
-## 📫 Contacto
+## Contact
 
 <div align="center">
 

@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Antonio 👋
 
-<!--
-**AntonioLBZ/AntonioLBZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who builds web apps with React and TypeScript. I enjoy making useful products with thoughtful, polished interfaces.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Hoardex](https://github.com/AntonioLBZ/spa-hoardex) — A dashboard for exploring a Steam library, playtime, and game backlog. [Try the demo](https://hoardex.vercel.app/demo).
+- [AniCalendar](https://github.com/AntonioLBZ/spa-anicalendar) — A weekly calendar for keeping up with currently airing anime.
+- [My portfolio](https://antoniolbz.vercel.app) — More about my work and projects.
+
+## Tools I use
+
+React · TypeScript · Next.js · Vite · CSS/SCSS
+
+Want to get in touch? You can find me through [my portfolio](https://antoniolbz.vercel.app).

@@ -31,6 +31,7 @@
 | :-- | :-- | :-- | :-- |
 | **Hoardex** | A dashboard for your Steam library: hours played, backlog and most played games, with animated charts. Includes a demo library. | Vite · React · TanStack · Hono · Neon · Redis | [Live](https://hoardex.vercel.app) · [Code](https://github.com/AntonioLBZ/spa-hoardex) |
 | **Anicalendar** | A weekly calendar of the anime you follow, pulled from AniList, Kitsu or MyAnimeList. Available in English, Spanish, French and German. | Next.js · React · react-aria · TanStack Query | [Live](https://anicalendar-lbz.vercel.app) · [Code](https://github.com/AntonioLBZ/spa-anicalendar) |
+| **Tarja** | An installable app to log everyday expenses. Each expense is categorized from its text, it works offline and syncs when the connection returns, and a monthly summary shows what is left over. Sign-in is with Google. | Vite · React · TanStack · Hono · Cloudflare D1 | [Live](https://tarja.antoniolbz.workers.dev) · [Code](https://github.com/AntonioLBZ/spa-tarja) |
 | **dev-portfolio** | My personal portfolio: a one-page site with scroll-driven animations and a detail page per project (UI in Spanish). | Next.js · GSAP · Lenis · SCSS | [Live](https://antoniolbz.vercel.app) · [Code](https://github.com/AntonioLBZ/dev-portfolio) |
 
 <br />

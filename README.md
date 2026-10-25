@@ -3,7 +3,7 @@
 <img width="100%" alt="Antonio López" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:db2777&height=200&section=header&text=Antonio%20L%C3%B3pez&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%40AntonioLBZ&descSize=20&descAlignY=60" />
 
 <a href="https://github.com/AntonioLBZ">
-  <img alt="Frontend developer · React · TypeScript · CSS" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=560&height=40&lines=Frontend+developer;React+%C2%B7+TypeScript+%C2%B7+CSS;Scroll+animations+and+interface+details;Based+in+A+Coru%C3%B1a" />
+  <img alt="Frontend developer; React, TypeScript, CSS; scroll-driven animations with GSAP; based in A Coruña" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=818CF8&center=true&vCenter=true&width=560&height=40&lines=Frontend+developer;React+%C2%B7+TypeScript+%C2%B7+CSS;Scroll-driven+animations+with+GSAP;Based+in+A+Coru%C3%B1a" />
 </a>
 
 <br />
@@ -18,10 +18,7 @@
 
 ## About me
 
-- Frontend developer working with **React, TypeScript and CSS**.
-- I build scroll-driven animations (GSAP, Lenis) and always respect `prefers-reduced-motion`.
-- Currently polishing **Hoardex**: achievements and the wishlist are still missing.
-- My portfolio lives at [antoniolbz.vercel.app](https://antoniolbz.vercel.app).
+Frontend developer working with React, TypeScript and CSS. The animations on my [portfolio](https://antoniolbz.vercel.app) are driven by scroll (GSAP, Lenis) and respect `prefers-reduced-motion`.
 
 <br />
 
@@ -29,9 +26,9 @@
 
 | Project | What it is | Stack | Links |
 | :-- | :-- | :-- | :-- |
-| **Hoardex** | A dashboard for your Steam library: hours played, backlog and most played games, with animated charts. Includes a demo library. | Vite · React · TanStack · Hono · Neon · Redis | [Live](https://hoardex.vercel.app) · [Code](https://github.com/AntonioLBZ/spa-hoardex) |
+| **Hoardex** | A dashboard for your Steam library: hours played, backlog and most played games, with animated charts. Includes a demo library. Still in progress: achievements and the wishlist are not built yet. | Vite · React · TanStack · Hono · Neon · Redis | [Live](https://hoardex.vercel.app) · [Code](https://github.com/AntonioLBZ/spa-hoardex) |
 | **Anicalendar** | A weekly calendar of the anime you follow, pulled from AniList, Kitsu or MyAnimeList. Available in English, Spanish, French and German. | Next.js · React · react-aria · TanStack Query | [Live](https://anicalendar-lbz.vercel.app) · [Code](https://github.com/AntonioLBZ/spa-anicalendar) |
-| **Tarja** | An installable app to log everyday expenses. Each expense is categorized from its text, it works offline and syncs when the connection returns, and a monthly summary shows what is left over. Sign-in is with Google. | Vite · React · TanStack · Hono · Cloudflare D1 | [Live](https://tarja.antoniolbz.workers.dev) · [Code](https://github.com/AntonioLBZ/spa-tarja) |
+| **Tarja** | An installable app to log everyday expenses. The category is suggested from the text, it works offline and syncs when the connection returns, and a monthly summary shows what is left over. Sign-in is with Google. | Vite · React · TanStack · Hono · Cloudflare D1 | [Live](https://tarja.antoniolbz.workers.dev) · [Code](https://github.com/AntonioLBZ/spa-tarja) |
 | **dev-portfolio** | My personal portfolio: a one-page site with scroll-driven animations and a detail page per project (UI in Spanish). | Next.js · GSAP · Lenis · SCSS | [Live](https://antoniolbz.vercel.app) · [Code](https://github.com/AntonioLBZ/dev-portfolio) |
 
 <br />
@@ -69,7 +66,7 @@
 
 <div align="center">
 
-<sub>These stats only take my public projects into account; private repositories are not counted.</sub>
+<sub>These stats only count my public repositories.</sub>
 
 <br />
 <br />
